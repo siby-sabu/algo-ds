@@ -1,0 +1,459 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InsertionSort",
+            "request": "launch",
+            "mainClass": "dsa.InsertionSort",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AdapaterTest",
+            "request": "launch",
+            "mainClass": "dp.AdapaterTest",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "dsa.stacks.Test",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sum2DArray",
+            "request": "launch",
+            "mainClass": "dsa.Sum2DArray",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Harmonic",
+            "request": "launch",
+            "mainClass": "dsa.Harmonic",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReverseArr",
+            "request": "launch",
+            "mainClass": "dsa.ReverseArr",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MaxElement",
+            "request": "launch",
+            "mainClass": "dsa.MaxElement",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FibanocciGood",
+            "request": "launch",
+            "mainClass": "dsa.FibanocciGood",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SummationPuzzle",
+            "request": "launch",
+            "mainClass": "dsa.SummationPuzzle",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinaryAdd",
+            "request": "launch",
+            "mainClass": "dsa.BinaryAdd",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Power",
+            "request": "launch",
+            "mainClass": "dsa.Power",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileSystem",
+            "request": "launch",
+            "mainClass": "dsa.FileSystem",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarySearch",
+            "request": "launch",
+            "mainClass": "dsa.BinarySearch",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ruler",
+            "request": "launch",
+            "mainClass": "dsa.Ruler",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrefixPkg",
+            "request": "launch",
+            "mainClass": "dsa.PrefixPkg",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayDuplicates",
+            "request": "launch",
+            "mainClass": "dsa.ArrayDuplicates",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IsEven",
+            "request": "launch",
+            "mainClass": "dsa.IsEven",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CreditCard",
+            "request": "launch",
+            "mainClass": "dsa.CreditCard",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyClass",
+            "request": "launch",
+            "mainClass": "dsa.MyClass",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sample",
+            "request": "launch",
+            "mainClass": "dsa.Sample",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "dsa.Test",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JumpSearch",
+            "request": "launch",
+            "mainClass": "gfg.JumpSearch",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarySearch",
+            "request": "launch",
+            "mainClass": "gfg.BinarySearch",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - KnightsTour2",
+            "request": "launch",
+            "mainClass": "recursive.KnightsTour2",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - KnightTour2",
+            "request": "launch",
+            "mainClass": "recursive.KnightTour2",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - KnightsTour",
+            "request": "launch",
+            "mainClass": "recursive.KnightsTour",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Maze",
+            "request": "launch",
+            "mainClass": "recursive.Maze",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QuickSort2",
+            "request": "launch",
+            "mainClass": "recursive.QuickSort2",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QuickSort",
+            "request": "launch",
+            "mainClass": "recursive.QuickSort",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SelectionSortRecursive",
+            "request": "launch",
+            "mainClass": "recursive.SelectionSortRecursive",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MergeSort",
+            "request": "launch",
+            "mainClass": "recursive.MergeSort",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SelectionSort",
+            "request": "launch",
+            "mainClass": "recursive.SelectionSort",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountFifteen",
+            "request": "launch",
+            "mainClass": "recursive.CountFifteen",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AllWords",
+            "request": "launch",
+            "mainClass": "recursive.AllWords",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AllSubSets",
+            "request": "launch",
+            "mainClass": "recursive.AllSubSets",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PermuteString",
+            "request": "launch",
+            "mainClass": "recursive.PermuteString",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DigitalRoot",
+            "request": "launch",
+            "mainClass": "recursive.DigitalRoot",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintInteger",
+            "request": "launch",
+            "mainClass": "recursive.PrintInteger",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "recursive.TowerOfHanoi",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PascalTriangleRecur",
+            "request": "launch",
+            "mainClass": "recursive.PascalTriangleRecur",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PascalTriangle",
+            "request": "launch",
+            "mainClass": "recursive.PascalTriangle",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Permute",
+            "request": "launch",
+            "mainClass": "recursive.Permute",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - gcd",
+            "request": "launch",
+            "mainClass": "recursive.gcd",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Square",
+            "request": "launch",
+            "mainClass": "recursive.Square",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Power",
+            "request": "launch",
+            "mainClass": "recursive.Power",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Confidential",
+            "request": "launch",
+            "mainClass": "hackerearth.Confidential",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChessKnight",
+            "request": "launch",
+            "mainClass": "hackerearth.ChessKnight",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HackTheMoney",
+            "request": "launch",
+            "mainClass": "hackerearth.HackTheMoney",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountSubstring",
+            "request": "launch",
+            "mainClass": "hackerearth.CountSubstring",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AB",
+            "request": "launch",
+            "mainClass": "hackerearth.AB",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BallonCost",
+            "request": "launch",
+            "mainClass": "hackerearth.BallonCost",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CheckPalindrome",
+            "request": "launch",
+            "mainClass": "hackerearth.CheckPalindrome",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SeatingArrange",
+            "request": "launch",
+            "mainClass": "hackerearth.SeatingArrange",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Zoos",
+            "request": "launch",
+            "mainClass": "hackerearth.Zoos",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrimeNumbers",
+            "request": "launch",
+            "mainClass": "hackerearth.PrimeNumbers",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayInsert",
+            "request": "launch",
+            "mainClass": "hackerearth.ArrayInsert",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DigitProblem",
+            "request": "launch",
+            "mainClass": "hackerearth.DigitProblem",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FlawedApi",
+            "request": "launch",
+            "mainClass": "hackerearth.FlawedApi",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MeetTheOther",
+            "request": "launch",
+            "mainClass": "hackerearth.MeetTheOther",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NQueen",
+            "request": "launch",
+            "mainClass": "hackerearth.NQueen",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountIntegers",
+            "request": "launch",
+            "mainClass": "hackerearth.CountIntegers",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestClass",
+            "request": "launch",
+            "mainClass": "hackerearth.TestClass",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JumpSearch",
+            "request": "launch",
+            "mainClass": "search.JumpSearch",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarySearch",
+            "request": "launch",
+            "mainClass": "search.BinarySearch",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinearSearch",
+            "request": "launch",
+            "mainClass": "search.LinearSearch",
+            "projectName": "algo"
+        }
+    ]
+}
